@@ -3091,7 +3091,7 @@ class HealthDashboardApp:
         
         **Version**: 4.0.0  
         **Last Updated**: December 2025  
-        **Developer**: Chiagoziem Cyriacus Ugoh
+        **Developer**: Segun Badmus
         """)
 
 
